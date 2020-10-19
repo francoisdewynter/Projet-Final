@@ -24,4 +24,4 @@ Etapes du projet:
 - Nettoyage et rajout de données (car on avait à peu près 100 images par classes ce qui n'était pas suffisant)
 - Preprocessing
 - Data Augmentation (notebook non présent voir Slide n°6 de la présentation)
-- Entrainement des modèles ResNet 18,34,50,101,152 et VGG16
+- Entrainement des modèles ResNet 18,34,50,101 et 152 et VGG16 et 19
